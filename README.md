@@ -5,7 +5,7 @@
 
 ## 简介
 
-[Evernote 印象笔记](https://www.yinxiang.com/)是一款超好用的笔记软件，尤其最近新增的[Markdown](https://help.yinxiang.com/hc/articles/69276?preview=hctop)笔记更是满足了更多笔记的需求。但相对于专业的Markdown编辑器Typora，还是有很大差距。尤其是样式一般，而且还不能换自定义主题。
+[Evernote 印象笔记](https://www.yinxiang.com/)是一款超好用的笔记软件，尤其最近新增的[Markdown](https://help.yinxiang.com/hc/articles/69276?preview=hctop)笔记更是满足了更多笔记的需求。但相对于专业的Markdown编辑器Typora，还是有很大差距。尤其是样式一般，目前还不能更换自定义主题。
 
 在macOS中，Markdow的显示使用了安装包中的`/Applications/印象笔记.app/Contents/Resources/common-markdown-mac/index.html`文件，在这个文件中添加新的css引用<link href="/Users/xxx/github/evernote-markdown-vue/vue.css" rel="stylesheet">，覆盖原有样式表，便可以随心修改样式。
 
@@ -22,4 +22,4 @@
 
 ## 效果图
 
-![效果图](http://static.blinkfox.com/snapshot.jpg)
+![效果图](https://github.com/timothyzhw/evernote-markdown-vue/blob/master/snapshot.jpg)
