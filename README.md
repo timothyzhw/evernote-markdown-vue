@@ -23,3 +23,6 @@
 ## 效果图
 
 ![效果图](https://github.com/timothyzhw/evernote-markdown-vue/blob/master/snapshot.jpg)
+
+## 示例文件
+我整理了一个[Makdown文件](https://raw.githubusercontent.com/timothyzhw/evernote-markdown-vue/master/Markdown.md)，包含了Evernote支持的大部分样式，如果想要调整样式查看整体的显示效果，用这个文件做示例是个不错的选择。
